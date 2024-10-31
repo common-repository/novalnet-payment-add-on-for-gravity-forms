@@ -1,0 +1,74 @@
+Update info for wordpress_6.0-6.3.1_gravityforms_2.3-2.7.14.2_novalnet_3.1.0.zip
+--------------------------------------------------------------------------------
+Filename before update	: wordpress_6.0-6.1.1_gravityforms_2.3-2.7.1_novalnet_3.0.0.zip
+Filename after update	: wordpress_6.0-6.3.1_gravityforms_2.3-2.7.14.2_novalnet_3.1.0.zip
+Updated by		: Mr pugazhenthi
+Tested by	        : Ms Divya Sheeba
+Released date	      	: 29.09.2023
+
+Changes:
+========
+
+   	[Enhanced] Hosted payment page integration has been updated to redirected page
+
+Update info for wordpress_6.0-6.1.1_gravityforms_2.3-2.7.1_novalnet_3.0.0.zip
+-----------------------------------------------------------------------------
+Filename before update	: wordpress_4.6.0-5.2.3_gravityforms_2.3.2-2.4.12_novalnet_2.0.1.zip
+Filename after update	: wordpress_6.0-6.1.1_gravityforms_2.3-2.7.1_novalnet_3.0.0.zip
+Updated by		: Mr pugazhenthi
+Tested by	        : Ms Saranya, Mr Bubesh
+Released date	      	: 23.02.2023
+
+Changes:
+========
+
+    [New Release] Payment plugin built with seamless payment experience with new v2 API structure and enhanced features
+
+Update info for wordpress_4.6.0-5.5.1_gravityforms_2.3.2-2.4.20.5_novalnet_2.0.1.zip
+------------------------------------------------------------------------------------
+Filename before update	: wordpress_4.6.0-5.2.3_gravityforms_2.3.2-2.4.12_novalnet_2.0.0.zip
+Filename after update	: wordpress_4.6.0-5.5.1_gravityforms_2.3.2-2.4.20.5_novalnet_2.0.1.zip
+Updated by	        : Mr Syed Jeelan Hussaini
+Tested by	        : Ms Vinothini, Mr Thamaraiselvan, Mr Muruganantham, Mr Sathish Anbazhagan
+Released date	     	: 21.11.2019
+Updated date		: 25.09.2020
+
+Changes:
+========
+
+    [Fix] Buyer need not enter the customer details again in the Payment form
+   
+Update info for wordpress_4.6.0-5.2.3_gravityforms_2.3.2-2.4.12_novalnet_2.0.0.zip
+----------------------------------------------------------------------------------
+Filename before update	: wordpress_v_4.2.2_gravityforms_v_1.9.5_novalnet_v_1.0.0.zip
+Filename after update	: wordpress_4.6.0-5.2.3_gravityforms_2.3.2-2.4.12_novalnet_2.0.0.zip
+Updated by	        : Mr.Rajesh, Mr.Syed Jeelan Hussaini, Mrs. Sivaranjani
+Tested by		: Mr Sathiskumar, Mr Gokul, Ms Priyadharshini, Mr Muruganantham
+Released date		: 14.03.2019
+Updated date           : 14.09.2019
+
+Changes:
+========
+
+    [New] Implemented Payments: Payment guarantee (Direct Debit SEPA & Invoice)
+    [New] Auto configuration call perform via cURL method
+    [New] Direct Debit SEPA due date
+    [Enhanced] Pending status and Onhold status has been implemented
+    [Enhanced] Callback has been optimized as per the new testcase
+    [Enhanced] Novalnet administration portal link has been updated in shop admin
+    [Removed] Transaction reference configuration
+
+
+Update info for wordpress_v_4.2.2_gravityforms_v_1.9.5_novalnet_v_1.0.0.zip
+---------------------------------------------------------------------------
+File name       : wordpress_v_4.2.2_gravityforms_v_1.9.5_novalnet_v_1.0.0.zip
+Updated by      : Mr Rajesh
+Tested by       : Mr Regi
+Released date   : 25.04.2015
+
+Changes:
+========
+
+    - First release
+
+****************************************************************************
